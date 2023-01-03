@@ -5,10 +5,10 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand!"  width=48px /> My name is Robert Servado
 </h1>
 </div>
-======================================================================================================================================
 
-Full Stack Web Developer
-------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Page!+:%29;I+am+a+Full+Stack+Web+Developer;I+like+to+make+stuff!;I'm+from+Brazil;I+am+excited+to+work+with+you!)](https://git.io/typing-svg)
+
+## Quick thing about me!
 
 I recently finished Lighthouse Labs: Web Flex Program to switch to the tech field but before that, I worked in Mechanical Engineering in the manufacturing and design field. I have a meticulous eye for detail and design and I bring with me a longstanding practice of team collaboration and a strong proven work ethic.
 

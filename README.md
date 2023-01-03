@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=458B74&height=150&section=header"/>
 
 <div align="center">
-<strong>
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand!"  width="250" /> My name is Robert Servado
-</strong>
+<h1>
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand!"  width=48px /> My name is Robert Servado
+</h1>
 </div>
 ======================================================================================================================================
 

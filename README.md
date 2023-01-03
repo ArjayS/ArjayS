@@ -2,11 +2,11 @@
 
 <div align="center">
 <h1>
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand!"  width=48px /> My name is Robert Servado
+Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand!" width=48px /> My name is Robert Servado
 </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Page!+:%29;I+am+a+Full+Stack+Web+Developer;I+like+to+make+stuff!;I'm+from+Brazil;I+am+excited+to+work+with+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B2323&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Page!+:%29;I+am+a+Full+Stack+Web+Developer;I+like+to+make+stuff!;I'm+from+Canada;I+am+excited+to+work+with+you!)](https://git.io/typing-svg)
 
 ## Quick thing about me!
 

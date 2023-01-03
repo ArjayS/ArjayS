@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=458B74&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=458B74&height=150&section=header"/>
 
+<div align="center">  
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Servado
+</div>
 ======================================================================================================================================
 
 Full Stack Web Developer
@@ -10,7 +12,7 @@ I recently finished Lighthouse Labs: Web Flex Program to switch to the tech fiel
 
 * 🌍  I'm based in Milton, ON
 * 🚀  I'm currently working on [my personal website](http://github.com/ArjayS/robertservado-portfolio)
-* 🧠  I'm learning Typescript, MongoDB, NextJs, Java
+* 🧠  I'm learning Typescript, NextJs, Java
 * 🤝  I'm open to collaborating on interesting projects! 👨‍💻
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I have a 3D printer and after seeing the new God Of War, Guardian Shield, I am trying to think of ways to make it a reality as a hobby!

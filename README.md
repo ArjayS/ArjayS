@@ -6,7 +6,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=16A085&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Page!+:%29;I+am+a+Full+Stack+Developer;I+like+to+make+stuff!;🌍+I'm+from+Canada;🤝+I'm+open+to+collaborating+on+interesting+projects!+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=16A085&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Page!+:%29;I+am+a+Full+Stack+Web+Developer;I+like+to+make+stuff!;🌍+I'm+from+Canada;🤝+I'm+open+to+collaborating+on+interesting+projects!+👨‍💻)](https://git.io/typing-svg)
 
 ## Quick thing about me!
 

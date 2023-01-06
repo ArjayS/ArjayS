@@ -48,6 +48,9 @@ I recently finished Lighthouse Labs: Web Flex Program to switch to the tech fiel
 <a href="http://www.github.com/ArjayS"><img width="90%" height="320px" src="https://github-readme-activity-graph.cyclic.app/graph?username=ArjayS&bg_color=08372E&color=ABEBC6&line=F4D03F&point=58D68D&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </div>
 
+<div>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArjayS}/count.svg" /></p>
+</div>
 
- 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E6655&height=100&section=footer"/>

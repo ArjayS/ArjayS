@@ -15,6 +15,7 @@ I recently finished Lighthouse Labs: Web Flex Program to switch to the tech fiel
 * 🚀  I'm currently working on a [small linkree version for my socials](https://github.com/ArjayS/channelbranch) and the next one will be my [personal/portfolio website](http://github.com/ArjayS/robertservado-portfolio)
 * 🧠  I'm learning Typescript, NextJs, React Native, Java
 * ⚡ Fun fact: As a personal hobby, I would like to someday re-create the Guardian Shield from the New God of War with my 3D printer!
+* ✉️  You can contact me at [servadorobert@gmail.com](mailto:servadorobert@gmail.com)
 
 ### Skills
 

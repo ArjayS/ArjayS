@@ -39,6 +39,7 @@ I recently finished Lighthouse Labs: Web Flex Program to switch to the tech fiel
 <a href="https://www.linkedin.com/in/robertservado/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://discord.com/users/Robert Servado#9549" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/ArjayS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+[<img alt="Email" height="30px" width="auto" src="./img/gmail.png" />](mailto:servadorobert@gmail.com)
 </p>
 
 ### Badges

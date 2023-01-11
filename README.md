@@ -44,8 +44,8 @@ I recently finished Lighthouse Labs: Web Flex Program to switch to the tech fiel
 ### Badges
 
 <div align="center">  
-<a href="http://www.github.com/ArjayS"><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ArjayS&show_icons=true&count_private=true&hide_border=true&title_color=ABEBC6&icon_color=F1C40F&text_color=FEF9E7&bg_color=08372E" alt="Robert Servado github stats" /> 
-<a href="http://www.github.com/ArjayS"><img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjayS&layout=compact&hide_border=true&title_color=ABEBC6&text_color=FEF9E7&bg_color=08372E" />
+<a href="http://www.github.com/ArjayS"><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ArjayS&show_icons=true&count_private=true&hide_border=true&title_color=ABEBC6&icon_color=F1C40F&text_color=c9d1d9&bg_color=0d1117" alt="Robert Servado github stats" /> 
+<a href="http://www.github.com/ArjayS"><img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjayS&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 <a href="http://www.github.com/ArjayS"><img width="90%" height="320px" src="https://github-readme-activity-graph.cyclic.app/graph?username=ArjayS&bg_color=08372E&color=ABEBC6&line=F4D03F&point=58D68D&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </div>
   
@@ -56,3 +56,10 @@ I recently finished Lighthouse Labs: Web Flex Program to switch to the tech fiel
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E6655&height=100&section=footer"/>
+  
+<!--  
+<div align="center">  
+<a href="http://www.github.com/ArjayS"><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ArjayS&show_icons=true&count_private=true&hide_border=true&title_color=ABEBC6&icon_color=F1C40F&text_color=FEF9E7&bg_color=08372E" alt="Robert Servado github stats" /> 
+<a href="http://www.github.com/ArjayS"><img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjayS&layout=compact&hide_border=true&title_color=ABEBC6&text_color=FEF9E7&bg_color=08372E" />  
+</div>
+-->

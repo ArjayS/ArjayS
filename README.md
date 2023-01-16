@@ -59,8 +59,3 @@ I recently finished Lighthouse Labs: Web Flex Program to switch to the tech fiel
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E6655&height=100&section=footer"/>
-  
-<!--
-<a href="http://www.github.com/ArjayS"><img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=ArjayS&show_icons=true&count_private=true&hide_border=true&title_color=ABEBC6&icon_color=F1C40F&text_color=FEF9E7&bg_color=08372E" alt="Robert Servado github stats" /> 
-<a href="http://www.github.com/ArjayS"><img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjayS&layout=compact&hide_border=true&title_color=ABEBC6&text_color=FEF9E7&bg_color=08372E" />
--->

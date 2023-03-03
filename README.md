@@ -47,7 +47,7 @@ I recently finished Lighthouse Labs: Web Flex Program to switch to the tech fiel
 
 <div align="center">
 <a href="http://www.github.com/ArjayS"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ArjayS&show_icons=true&count_private=true&hide_border=true&title_color=ABEBC6&icon_color=F1C40F&text_color=FEF9E7&bg_color=08372E" alt="Robert Servado github stats" />
-<a href="http://www.github.com/ArjayS"><img width="39%" height="175px" style="margin-bottom: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjayS&layout=compact&hide_border=true&title_color=ABEBC6&text_color=FEF9E7&bg_color=08372E" />
+<a href="http://www.github.com/ArjayS"><img width="40%" height="175px" style="margin-bottom: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjayS&layout=compact&hide_border=true&title_color=ABEBC6&text_color=FEF9E7&bg_color=08372E" />
 </div>
 
 <a href="http://www.github.com/ArjayS"><img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjayS&stroke=ffffff&background=08372E&ring=DC143C&fire=F4D03F&currStreakNum=CD5C5C&currStreakLabel=58D68D&sideNums=CD5C5C&sideLabels=58D68D&dates=58D68D&hide_border=true" /></a>

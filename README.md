@@ -13,10 +13,11 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 I recently finished Lighthouse Labs: Web Flex Program to switch to the tech field but before that, I worked in Mechanical Engineering in the manufacturing and design field. I have a meticulous eye for detail and design and I bring with me a longstanding practice of team collaboration and a strong proven work ethic.
 
 * 🚀  I'm currently working on a [small social site](https://github.com/ArjayS/channelbranch) and the next one will be my [personal/portfolio website](https://github.com/ArjayS/robertservado-portfolio-July2023)
-* 🧠  I'm learning Vue, GraphQL, Typescript, React Native, Java
+* 🧠  I'm currently learning Vue!
 * ⚡ Fun fact: As a personal hobby, I would like to someday re-create the Guardian Shield from the New God of War with my 3D printer!
 * ✉️  You can contact me at [servadorobert@gmail.com](mailto:servadorobert@gmail.com)
 
+<!-- * 🧠  I'm learning Vue, GraphQL, Typescript, React Native, Java -->
 ### Skills
 
 <p align="left">
